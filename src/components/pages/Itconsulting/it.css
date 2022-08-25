@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+.i-main {
+    background: linear-gradient(180deg, #F0F0F0 20%, rgba(240, 240, 240, 0) 80%);
+    font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
+}
+.color1{
+    color: #000000;
+}
+.color2{
+    color: #FFAF2E;
+}
+.i-heading {
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 108px;
+    /* identical to box height, or 154% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.i-para {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 152% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #505050;
+    
+}
+
+.i-btn {
+    background: #FA742B !important;
+    border-radius: 14px;
+    
+}
+.mb-3{
+    border: none !important;
+}
+.rdm {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 152% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.i-img-1 {
+    width: 818px;
+    height: 669px;
+    margin-left: -16%;
+}
+
+.wwa {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    /* identical to box height, or 270% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #616161;
+    margin-left: 12%;
+    margin-top: 1em;
+}
+
+.mpcc {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 65px;
+    /* identical to box height, or 216% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(90.95deg, #920000 9.18%, #BB4E75 106.32%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-left: 4%;
+}
+
+.i-para-1 {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 152% */
+    display: flex;
+    align-items: center;
+    color: #505050;
+    margin-left: 4%;
+}
+
+.os {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 70px;
+    /* identical to box height, or 270% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #090909;
+    margin-left: 9%;
+}
+
+.c-card {
+    border: none;
+    border-radius: 15px;
+    max-width: 40rem;
+    margin-left: 4%;
+}
+
+.c-card-title {
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 50px;
+    /* or 270% */
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, #3B2667 0%, #BC78EC 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.c-card-text {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 152% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #505050;
+}

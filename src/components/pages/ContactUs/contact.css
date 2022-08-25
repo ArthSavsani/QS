@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+#contact {
+    background-image: url("../../../img/a.jpg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+.c-h1 {
+    margin-bottom: 0;  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800 !important;
+    font-size: 60px !important;
+    line-height: 58px;
+    /* or 73% */
+    background: linear-gradient(135deg, #ffdb01 0%, #0e197d 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  
+  /* Lets work together */
+  
+  .c-h3 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800 !important;
+    font-size: 30px;
+    line-height: 58px;
+    /* or 146% */
+  
+    background: linear-gradient(135deg, #000000 0%, #82d7c9 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  
+  .c-para {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px !important;
+    line-height: 35px;
+    background: linear-gradient(244.05deg, #505050 67.27%, #82d7c9 130.33%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  .contact-text{
+    /* padding-top: 124px; */
+  }
+  /* form */
+  
+  /* first name and last name */
+  
+  .first-name-label {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 58px;
+    /* or 292% */
+  
+    background: linear-gradient(244.05deg, #505050 67.27%, #82d7c9 130.33%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  
+  #first-name {
+    box-sizing: border-box;
+  
+    width: 199px;
+    height: 50px;
+  
+    background: #fdfdfd;
+    border: 1px solid #b8b2b2;
+    border-radius: 31px;
+  }
+  
+  .second-name-label {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 58px;
+    /* identical to box height, or 292% */
+  
+    background: linear-gradient(244.05deg, #505050 67.27%, #82d7c9 130.33%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  
+  #second-name {
+    box-sizing: border-box;
+  
+    width: 199px;
+    height: 50px;
+  
+    background: #fdfdfd;
+    border: 1px solid #b8b2b2;
+    border-radius: 31px;
+  }
+  /* ------------------ */
+  
+  
+  /* Email */
+  .email-label {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 58px;
+    /* or 292% */
+  
+    background: linear-gradient(244.05deg, #505050 67.27%, #82d7c9 130.33%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  
+  #email {
+    box-sizing: border-box;
+  
+    width: 551px;
+    height: 50px;
+  
+    background: #fdfdfd;
+    border: 1px solid #b8b2b2;
+    border-radius: 31px;
+  }
+  
+  /* -------------------------- */
+  
+  
+  /* What can we help you with */
+  .query-label {
+    margin-bottom: 6px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 58px;
+    /* or 292% */
+  
+    display: flex;
+    align-items: center;
+  
+    background: linear-gradient(244.05deg, #505050 67.27%, #82d7c9 130.33%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  
+  #query {
+    box-sizing: border-box;
+    width: 551px;
+    height: 50px;
+  
+    background: #fdfdfd;
+    border: 1px solid #b8b2b2;
+    border-radius: 31px;
+  }
+  
+  #submit-button {
+    display: block;
+    margin-top: 30px;
+    margin-left: 155px;
+    width: 220px;
+    height: 60px;
+    cursor: pointer;
+    background: linear-gradient(135deg, #ff6fd8 0%, #3813c2 100%);
+    border-radius: 26px;
+    border: none;
+  }
+  
+  #submit-button-value {
+    width: 181px;
+    height: 72px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 58px;
+    /* or 209% */
+  
+    margin: auto;
+    background: linear-gradient(135deg, #fad7a1 0%, #e96d71 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  
+  #submit-button:hover {
+    box-shadow: 0 0 5px #070318;
+    width: 243;
+    height: 75;
+  }
+  

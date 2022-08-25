@@ -1,0 +1,373 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+.title{
+    width: 557px; 
+    font-weight: 800;
+    font-size: 45px;
+    padding-left: 120px;
+    padding-bottom: 10px;
+    margin-bottom: -1em;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, #F05F57 0%, #360940 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.headk{
+    width: 557px;
+    height: 138px;
+    font-weight: 800;
+    font-size: 45px;
+    padding-left: 22px;
+    line-height: 80px;
+    background: linear-gradient(135deg, #F05F57 0%, #360940 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.u-content{
+    width: 701px;
+    height: 232px;
+    font-family: 'Poppins';
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #505050;
+}
+.u-img1{
+    position: absolute;
+    width: 558px;
+    height: 385px;
+    left: 911.85px;
+    top: 122.36px;
+}
+.headin{
+    margin-left: 5em;
+    margin-top: 0;
+    font-weight: 800;
+    font-size: 36px;
+    background: linear-gradient(135deg, #F05F57 0%, #360940 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.u-text1{
+    width: 661px;
+    height: 232px;
+    padding-top: 19px;
+    font-family: 'Poppins';
+    font-size: 20px;
+    line-height: 32px;
+    align-items: center;
+    text-align: center;
+    color: #505050;
+}
+.u-con1{
+    position: absolute;
+    width: 341px;
+    height: 323px;
+    left: 130px;
+    top: 743px;
+    background: linear-gradient(135deg, #FEB692 0%, #EA5455 100%);
+    border-radius: 344px;
+}
+.subtitle{
+    width: 374px;
+    height: 127px;
+    padding-left: 69px;
+    margin-top: 30px;
+    font-weight: 800;
+    font-size: 35px;
+    background: linear-gradient(135deg, #A07EED 0%, #A071A8 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.u-box1{
+    position: absolute;
+    width: 284px;
+    height: 301px;
+    left: 20px;
+    top: 38px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #505050;
+}
+.u-con2{
+    position: absolute;
+    width: 341px;
+    height: 323px;
+    left: 830px;
+    top: 743px;
+    background: linear-gradient(135deg, #F6CEEC 0%, #D939CD 100%);
+    border-radius: 344px;
+}
+.u-con3{
+    position: absolute;
+    width: 260px;
+    height: 240px;
+    left: 530px;
+    top: 984px;
+    background: linear-gradient(135deg, #E2B0FF 0%, #9F44D3 100%);
+    border-radius: 344px;
+}
+.u-box2{
+    position: absolute;
+    width: 200px;
+    left: 27px;
+    top: 105px;
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    color: #505050;
+}
+.u-img2{
+    position: absolute;
+    width: 400px;
+    height: 360px;
+    top: 1101px;
+}
+.u-img3{
+    position: absolute;
+    width: 400px;
+    height: 330px;
+    left: 950px;
+    top: 1141px;
+}
+.headin1{
+    margin-left: 1.2em;
+    margin-top: 27em;
+    font-weight: 800;
+    font-size: 28px;
+    background: linear-gradient(135deg, #F05F57 0%, #360940 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.u-text2{
+    padding-left: 30px;
+    padding-top: 26px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #505050;
+}
+.u-img4{
+    position: absolute;
+    width: 160px;
+    height: 190px;
+    left: 48px;
+    top: 1690px;
+}
+.head1{
+    position: absolute;
+    margin-top: 2.4em;
+    margin-left: 8em;
+    font-weight: 800;
+    font-size: 30px;
+    background: linear-gradient(135deg, #3B2667 0%, #BC78EC 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.tex1{
+    position: absolute;
+    margin-left: 12em;
+    margin-top: 6.5em;
+    width: 25%;
+    font-weight: 300;
+    font-size: 20px;
+    color: #505050;
+}
+.u-img5{
+    position: absolute;
+    width: 160px;
+    height: 145px;
+    left: 915px;
+    top: 1700px;
+}
+.head2{
+    position: absolute;
+    left: 1142px;
+    top: 1703px;
+    font-weight: 800;
+    font-size: 30px;
+    background: linear-gradient(135deg, #3B2667 0%, #BC78EC 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.tex2{
+    position: absolute;
+    left: 57em;
+    top: 88em;
+    width: 20%;
+    font-weight: 300;
+    font-size: 20px;
+    color: #505050;
+}
+.u-img6{
+    position: absolute;
+    width: 160px;
+    height: 190px;
+    left: 48px;
+    top: 1898px;
+}
+.head3{
+    position: absolute;
+    margin-top: 9.8em;
+    margin-left: 8em;
+    font-weight: 800;
+    font-size: 30px;
+    background: linear-gradient(135deg, #3B2667 0%, #BC78EC 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.tex3{
+    position: absolute;
+    margin-left: 12em;
+    margin-top: 17.5em;
+    width: 27%;
+    font-weight: 300;
+    font-size: 20px;
+    color: #505050;
+}
+.u-img7{
+    position: absolute;
+    width: 220px;
+    height: 125px;
+    left: 900px;
+    top: 1930px;
+}
+.head4{
+    position: absolute;
+    left: 38em;
+    top: 64em;
+    font-weight: 800;
+    font-size: 30px;
+    background: linear-gradient(135deg, #3B2667 0%, #BC78EC 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.tex4{
+    position: absolute;
+    left: 57em;
+    top: 99em;
+    width: 19%;
+    font-weight: 300;
+    font-size: 20px;
+    color: #505050;
+}
+.circ1{
+    position: absolute;
+    width: 260.71px;
+    border-radius: 50%;
+    height: 173.65px;
+    left: 1397px;
+    top: 2039.34px;
+    background: linear-gradient(135deg, #E8D07A 0%, #5312D6 100%);
+    transform: rotate(-18.44deg);
+}
+.headin2{
+    height: 1229px;
+    padding-left: 34px;
+    padding-top: 536px;
+    font-weight: 800;
+    font-size: 30px;
+    background: linear-gradient(135deg, #F05F57 0%, #360940 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.squa1{
+    position: absolute;
+    width: 346px;
+    height: 222px;
+    left: 11em;
+    top: 139em;
+    background: linear-gradient(180deg, #8668FF 0%, rgba(217, 217, 217, 0) 100%);
+}
+.squa_head1{
+    position: absolute;
+    width: 854px;
+    height: 138px;
+    left: 35px;
+    top: -38px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 29px;
+    line-height: 108px;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, #F05F57 0%, #360940 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.squa_para1{
+    position: absolute;
+    width: 325px;
+    height: 159px;
+    left: 0px;
+    top: 56px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #505050;
+}
+.squa2{
+    position: absolute;
+    width: 350px;
+    height: 222px;
+    left: 66em;
+    top: 139em;
+    background: linear-gradient(180deg, #8668FF 0%, rgba(217, 217, 217, 0) 100%);
+}
+.squa_head2{
+    position: absolute;
+    width: 854px;
+    height: 138px;
+    left: 35px;
+    top: -54px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 29px;
+    line-height: 108px;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, #F05F57 0%, #360940 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.squa3{
+    position: absolute;
+    width: 350px;
+    height: 222px;
+    left: 38em;
+    top: 157em;
+    background: linear-gradient(180deg, #8668FF 0%, rgba(217, 217, 217, 0) 100%);
+}
+.u-img8{
+    position: absolute;
+    width: 247.71px;
+    height: 250.65px;
+    padding-left: -137px;
+    top: 2450.34px;
+    left: -45px;
+}

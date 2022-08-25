@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+.le-heading{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 700;
+    font-size: 55px;
+    background: linear-gradient(135deg, #FF2F2F 0%, #360940 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    text-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.le-heading1{
+    font-family: 'Poppins';
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #505050;
+}
+.le-img1{
+    margin-top: -17em;
+    height: 20em;
+    padding-left: 82em;
+}
+.column {
+    float: left;
+}
+.le-img2{
+    height: 13em;
+    margin-left: 8em;
+}
+.le-img3{
+    height: 13em;
+    margin-left: 6em;
+}
+.le-img4{
+    height: 13em;
+    margin-left: 4em;
+}
+.le-img5{
+    height: 13em;
+    margin-left: 17em;
+}
+.le-img6{
+    height: 13em;
+    margin-left: 6em;
+}
+.le-p{
+    margin-left: 9em;
+    padding-top: 15px;
+    color: #FF2F2F;
+}
+.le-p1{
+    padding-top: 15px;
+    margin-left: 8em;
+    color: #FF2F2F;
+    font-size: 14px;
+}
+.le-p2{
+    margin-left: 7em;
+    padding-top: 15px;
+    color: #FF2F2F;
+    font-size: 14px;
+}
+.le-p3{
+    margin-left: 21em;
+    padding-top: 15px;
+    color: #FF2F2F;
+    font-size: 14px;
+}
+.le-p4{
+    margin-left: 8em;
+    padding-top: 15px;
+    color: #FF2F2F;
+    font-size: 14px;
+}
+.le-imgg3{
+    height: 290px;
+}
+.im1{
+    height: 90px;
+    width: 40px;
+    margin-bottom: -62px;
+    margin-top: -60px;
+}
+b{
+    font-size: 19px;
+    color: black;
+}

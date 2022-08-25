@@ -1,0 +1,98 @@
+
+p {
+    /* font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    align-items: center;
+    text-align: left;
+    color: #505050; */
+}
+
+.ca-heading {
+    padding-top: 37px;
+    padding-left: 54px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    display: flex;
+    background: linear-gradient(135deg, #553772 0%, #20F446 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.ca-head {
+    font-weight: 800;
+    font-size: 50px;
+    padding-bottom: 11px;
+    background: linear-gradient(135deg, #FDD819 0%, #E80505 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-left: 7%;
+}
+
+.car-para {
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 18px;
+    width: 40vw;
+    margin-left: -6%;
+    top: 211px;
+    background: linear-gradient(135deg, #FDD819 0%, #e8e405 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-left: -218%;
+}
+
+.ca-para {
+    width: 40vw;
+    margin-left: -5%;
+    color: #505050;
+    font-size: 20px;
+}
+
+.ca-ben {
+    width: -10vw;
+    margin-left: 12%;
+    color: #505050;
+    font-size: 20px;
+}
+
+.contact-form {
+    padding: 90px;
+    margin: 30px 0;
+}
+
+.contact-form h1 {
+    text-transform: uppercase;
+    margin: 0 0 15px;
+}
+.contact-form .c-form-control,
+.contact-form .btn {
+    min-height: 55px;
+    border-radius: 19px;
+}
+
+.contact-form .btn-primary {
+    min-width: 151px;
+    background: linear-gradient(135deg, #FF6FD8 0%, #3813C2 100%);
+    border: none;
+    padding: 13px;
+    margin: 30px 224px;
+    font-size: 23px;
+}
+
+.contact-form .btn-primary:hover {
+    background: #a034c5;
+}
+
+.contact-form label {
+    opacity: 0.9;
+    font-size: 16px;
+}
+
+.contact-form textarea {
+    resize: vertical;
+}
